@@ -1,9 +1,7 @@
-*******HI, This is the submission for the Black Coffer Assignment made by ISHAN SINGH*******
-
 Find the zip file and unzip it.
 It contains all the codes.
 
-Directory looks like : 
+Directory Structure : 
 
 Root
 |-- assignment
